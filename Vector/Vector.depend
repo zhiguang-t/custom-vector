@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1581954971 source:c:\users\zhiguang\desktop\murdoch\ict283 data structures and abstractions\assignment\assignment 1\assignment 1 codes\vector\vector.cpp
+
+1582466175 source:c:\users\zhiguang\desktop\murdoch\ict283 data structures and abstractions\assignment\assignment 1\assignment 1 codes\vector\main.cpp
+	<iostream>
+	"VectorTest.h"
+
+1582471270 c:\users\zhiguang\desktop\murdoch\ict283 data structures and abstractions\assignment\assignment 1\assignment 1 codes\vector\vectortest.h
+	<iostream>
+	"Vector.h"
+
+1582469366 c:\users\zhiguang\desktop\murdoch\ict283 data structures and abstractions\assignment\assignment 1\assignment 1 codes\vector\vector.h
+
+1582470811 source:c:\users\zhiguang\desktop\murdoch\ict283 data structures and abstractions\assignment\assignment 1\assignment 1 codes\vector\vectortest.cpp
+	"VectorTest.h"
+
